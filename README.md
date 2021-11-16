@@ -1,5 +1,5 @@
 # PR-RPS
 
-Older Player Shows: 
+Older Player Shows: Scissors 
 
 Younger Player Shows: Rock
