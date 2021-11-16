@@ -1,5 +1,5 @@
 # PR-RPS
 
-Older Player Shows: Paper
+Older Player Shows: 
 
-Younger Player Shows: Paper
+Younger Player Shows: 
