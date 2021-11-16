@@ -2,4 +2,4 @@
 
 Older Player Shows: Scissors 
 
-Younger Player Shows: 
+Younger Player Shows: Rock
