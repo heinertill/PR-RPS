@@ -2,4 +2,4 @@
 
 Older Player Shows:
 
-Younger Player Shows: Paper
+Younger Player Shows: Rock
